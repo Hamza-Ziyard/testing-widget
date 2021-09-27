@@ -1,9 +1,10 @@
 #slots:not(:target){
-    visibility: hidden;
+    /* visibility: hidden; */
+    display: none;
 }
 
 #slots:target{
-    visibility: visible;
+    display: block;
 }
 
 #oabp-widge{
