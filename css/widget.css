@@ -10,5 +10,5 @@
 
 .code{
     height: 200px;
-    overflow: hidden;
+    overflow: scroll;
 }
