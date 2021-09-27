@@ -1,0 +1,11 @@
+#slots:not(:target){
+    visibility: hidden;
+}
+
+#slots:target{
+    visibility: visible;
+}
+
+#oabp-widge{
+    height: 200px;
+}
